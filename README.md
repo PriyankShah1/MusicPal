@@ -9,3 +9,9 @@ The user would not have to waste any time in searching or to look up. The image 
 The image will be taken to recognize the person's mood/emotion of the user and an appropriate song from the playlist of the user is shown matching the user’s requirement.
   
   
+  
+  #Working
+# Working
+1. 1st it detects face of person through camera 
+2. After that detects emotion of person using RCNN model 
+3. Based on emotion plays a music 
